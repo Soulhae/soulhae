@@ -1,4 +1,4 @@
-# Hi there, I'm Benjamín Herrera 👋
+# Hi there!, I'm Benjamín Herrera 🤓
 
 ### 👨‍💻 Full-Stack Developer | Game Developer | Tech Enthusiast
 
@@ -44,6 +44,8 @@ Here are some of the projects I've been working on.
 ---
 
 ## ⚡ Beyond Coding
+
+<img align="right" width=215px alt="Lineage 2 Cat" src="https://media1.tenor.com/m/4iYkmuuy66gAAAAd/catl2-l2cat.gif" />
 
 When I'm not coding I'm...:
 - 🏐 **Sports:** At the gym or playing volleyball (hopefully at a club soon).
