@@ -36,6 +36,7 @@ Here are some of the projects I've been working on.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Is It Underrated?](https://is-it-underrated.vercel.app)** | A data-driven platform that identifies high-quality, hidden gem games on Steam. Features a custom automated ETL pipeline to extract metrics, calculate a proprietary weighted score, and surface niche recommendations. | `Next.js` `Supabase` `Node.js` `Tailwind` |
+| **[Yuyay](https://soulhae.itch.io/yuyay)** | A cozy visual novel and restaurant sim. Game follows Mateo, a young man who is confused about life. Playable in browser. Made for [Takernal Game Jam 2026](https://itch.io/jam/takernalgamejam2026) | `Godot` `GDScript` | 
 | **[Academic Thesis / ML Research]** | A deep dive into Machine Learning and High-Performance Computing. Focused on meta-learning and meta-modeling on optimizing metaheuristic algorithms for CNN optimization to detect melanoma  | `Python` `Scikit-Learn` `XGBoost` `HPC` `PyMFE` |
 <!-- | **[Nuevo proyecto]** | Descripción del proyecto, qué hace y qué soluciona. | `Tech 1` `Tech 2` | -->
 
